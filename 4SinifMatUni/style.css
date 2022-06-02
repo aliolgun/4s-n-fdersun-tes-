@@ -1,0 +1,32 @@
+.basliklar{
+  text-align:center;
+   
+  color:#7f0a2d
+
+}
+.altbasliklar{
+  text-align:left; 
+  color:#034891
+}
+.terim{
+
+
+ background:red
+}
+
+
+body{
+  margin-right:350px;
+  margin-left: 350px;
+  margin-top:100px;
+  margin: bottom 100px;
+  font-family:"regular",serif;
+  background-color:#4c9e95;
+  background-size:150px;
+  background-repeat:no-repeat;
+  
+text-align:center;
+  background-image: url('arkaplan.jpg');
+  background-size:12000px;
+  
+}
